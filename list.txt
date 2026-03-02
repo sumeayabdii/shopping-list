@@ -1,8 +1,6 @@
-Plates
-Spoons
-Cups
-Sufurias
-Cooker
-Hotpots
-Frying pans
-Cooking sticks
+Mopper
+Bucket
+Detergent
+Soap
+Broom
+Water
