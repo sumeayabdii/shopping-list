@@ -1,0 +1,6 @@
+Mopper
+Bucket
+Detergent
+Soap
+Broom
+Water
